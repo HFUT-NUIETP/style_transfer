@@ -58,7 +58,7 @@ python train.py --path_content in/content.jpg --style_no 0
 
 |  Content | Style  |  Output  |
 |  ----  | ----  |  ----  |
-| <img src="in/content.jpg" style="zoom:33%;" /> | <img src="utils/styles/style1.jpg" style="zoom:55%;" /> | <img src="out/output.jpg" style="zoom:75%;" /> |
+| <img src="in/content.jpg" style="zoom:33%;" /> | <img src="utils/styles/style0.jpg" style="zoom:55%;" /> | <img src="out/output.jpg" style="zoom:75%;" /> |
 
 ### Reference
 
