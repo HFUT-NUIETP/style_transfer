@@ -1,4 +1,5 @@
 import argparse
+import os
 
 
 class StyleOptions:
@@ -20,5 +21,5 @@ class StyleOptions:
 
 if __name__ == '__main__':
     config = StyleOptions().config
+    os.system('python options.py -h')
     print(config)
-    print(config.path_styles+str(config.style_no)+'.jpg')
